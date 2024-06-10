@@ -1,0 +1,35 @@
+{
+  "name": "nuxt-app",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@antfu/eslint-config": "^2.19.1",
+    "@iconify-json/carbon": "^1.1.34",
+    "@nuxt/devtools": "^1.3.2",
+    "@nuxt/eslint": "^0.3.13",
+    "@types/better-sqlite3": "^7.6.10",
+    "@unocss/eslint-config": "^0.60.3",
+    "@unocss/nuxt": "^0.60.3",
+    "@vueuse/nuxt": "^10.10.0",
+    "arco-design-nuxt-module": "^0.1.0",
+    "better-sqlite3": "^9.6.0",
+    "consola": "^3.2.3",
+    "dayjs-nuxt": "^2.1.9",
+    "eslint": "^8.56.0",
+    "eslint-plugin-format": "^0.1.1",
+    "nanoid": "^5.0.7",
+    "nuxt": "^3.11.2",
+    "nuxt-lodash": "^2.5.3",
+    "paseto-ts": "^1.5.7",
+    "tsx": "^4.11.0",
+    "typescript": "^5.4.5",
+    "vue-tsc": "^2.0.19"
+  }
+}
